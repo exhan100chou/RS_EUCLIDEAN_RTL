@@ -1,6 +1,6 @@
 # RS_EUCLIEAN_RTL
 Reed Solomon (RS) decoder using Modified Euclidean algorithm parallel architecture\
-RS(255.223) code\
+RS(255.223) code for the project "Software Design Research for the Baseband Receiver of Low-orbit Satellite Communications"
 # Function description:
 Input: RSin 16bits (2 symbols) per clk, total input 255symbol\
 rst 0:RESET 1:work\
